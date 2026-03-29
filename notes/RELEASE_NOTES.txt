@@ -1,0 +1,17 @@
+1.0.1 - BUG PATCH
+-image defaults in case of a load error
+-krueger will not shake so aggressively that the game will crash
+-the same will occur with audio
+1.0 - BASE GAME
+-KRUEGER BUTTON
+-TITLE
+-BG
+-MUSIC
+-SOUNDS
+-STUDENTS
+-SUPERSTUDENTS
+-PRICES
+-LOCKS
+-MULTIPLIERS
+-SAVING
+-LOADING

@@ -1,0 +1,21 @@
+store in the exe:
+-main.py
+-bg folder
+-images folder
+-mdp folder
+-sounds folder
+-.vscode folder 
+-font.ttf
+-compiling_notes.txt
+-statistics.txt
+
+store out of the exe (for people to access):
+-students folder
+-ost folder
+-saves folder
+-README.txt
+-RELEASE_NOTES.txt
+-kroogvertisement.png
+
+extra notes:
+-make the terminal visible; it is needed for saving -and loading
