@@ -4,12 +4,16 @@
 - Krueger Clicker is a simple clicker-style idle game where you click my Computer Science instructor. 
 - I made this four years ago now (2022), when I'd only been programming for two-ish years. 
 - The program is very well documented, and decently well organized.
+
+
 ## THE GAMEPLAY
 - You click Krueger to gain Kroogs
 - You can purchase students to collect Kroogs for you.
 - You can purchase upgrades that gives you more KPC (Kroogs Per Click) for both yourself and the students.
 - When you max out on Students, you can purchase Super Students, which are 100 students condensed into one.
 - Eventually you reach an end, when there's either nothing to purchase or the game takes up too much resources and crashes.
+
+
 ## KNOWN ISSUES
 - One of my friends at the time was able to make a malicious save file to remotely execute code. 
     - This was because the program used eval() with no input validation.
@@ -18,6 +22,8 @@
     - I could do it if I remade it now, but I'm not going to make a game like this again.
 - For some reason I did error checking with importing TKinter, but didn't go through the effort of disabling saving/loading if it wasn't found.
     - I could very easily do this now, but for preservation purposes I will not. 
+
+
 ## OTHER TIDBITS
 - "Notes" was my way of handling documentation at the time. 
 - There was an update planned in the documentation (1.1.0) that added replayability with prestiges, but I never got around to it.
